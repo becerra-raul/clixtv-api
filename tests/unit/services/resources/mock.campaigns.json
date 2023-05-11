@@ -1,0 +1,541 @@
+[
+    {
+        "_id": "59114d822bbc15029759c99f",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Chevrolet",
+        "description": "Welcome to the official Chevrolet ClixTV channel. Here you can take a close-up look at how this iconic automotive brand sets innovation in motion through compelling design and revolutionary technology. See innovation in action with Chevrolet vehicles like the all-new Corvette Stingray, the fun-loving Sonic, the sophisticated Impala, the all-electric Spark EV, and the extended-range electric Volt. Join us as we continue to pave the way for discovery on the automotive front and Find New Roads.\n\nMore information about the Chevrolet brand and models can be found at www.chevrolet.com.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d822bbc15029759c99f/chevrolet-auto-logo-vector.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d822bbc15029759c99f/chevycover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d822bbc15029759c99f/All-new2018EquinoxisforEverybodyEverywhere-Chevrolet.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d822bbc15029759c99f/chevroletvideothumb.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 41,
+        "share_id": 1159
+    },
+    {
+        "_id": "59114ab02bbc15029759c996",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "DiGiorno",
+        "description": "Launched nationally in 1995, DiGiorno revolutionized the category with pizza created from the knowledge that the freshest taste, comes baked from the freshest place -- your own oven. Rise to the Occasion and join us on YouTube to see what we're cooking up next. Make to subscribe, comment, like, share, but most importantly, dig in!\n\nIt's Not Delivery. It's DIGIORNO.®",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/digiorno-logo.svg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/DiGiornoPizzaAnthem.mp4"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/digiornocover.digiornocover"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/digiorno-video-thumb1.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 36,
+        "share_id": 1154
+    },
+    {
+        "_id": "590d32edceeb0b519699e7ef",
+        "publish_date": 1494161040000,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Lyft",
+        "description": "The official ClixTV channel for Lyft. \n\n\nDownload our app for iPhone or Android, and get a friendly, affordable ride within minutes. Just tap a button, and you'll get picked up by a Lyft driver. When the ride ends, the app automatically charges your saved credit card. No need to carry cash! \n\n\nTo see a list of cities we're currently in, check out lyft.com/cities.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/590d32edceeb0b519699e7ef/Lyft_logocopy.png"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/590d32edceeb0b519699e7ef/ANewWayToGlow.mp4"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/590d32edceeb0b519699e7ef/lyftcover2.jpg"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/590d32edceeb0b519699e7ef/lyft-videothumbcopy.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 31,
+        "share_id": 1015
+    },
+    {
+        "_id": "5900d5faa9904c141c733e4d",
+        "publish_date": 1495621860000,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "McDonald's",
+        "description": "Welcome to your go-to source for all things McDonald's. On our official channel, you'll have exclusive access to McDonald's commercials, behind-the-scenes footage, celebrity showcases, fan favorite videos, music specials and more. \n\nPlease be mindful some of what you may see, including various promotions, are subject to change and valid at participating McDonald's locations. \n\nAll trademarks within the channel remain the property of their respective owners. ",
+        "keywords": null,
+        "agency": "age",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5900d5faa9904c141c733e4d/mcdonalds-logo.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5900d5faa9904c141c733e4d/mcdonaldscover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5900d5faa9904c141c733e4d/McDonalds-TheresaBigMacForThat2.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/5900d5faa9904c141c733e4d/mcdonalds-videothumb.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": "5804d278a7889d000337f0eb",
+        "sub_campaigns": null,
+        "knetikId": null,
+        "share_id": 78747
+    },
+    {
+        "_id": "591149c62bbc15029759c992",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Nike",
+        "description": "Bring inspiration and innovation to every athlete* in the world.\n*If you have a body, you are an athlete.\n\nNIKE, Inc. fosters a culture of invention. We create products, services and experiences for today’s athlete while solving problems for the next generation.\n\nFocusing on energy, chemistry, water and waste, we go deep into the supply chain to understand our impacts and identify strategies to use less, use better and use again.\n\nOur mission — to bring inspiration and innovation to every athlete in the world — drives us to encourage every person to reach their full potential, whether it’s on the track, field or court, at work or at home.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591149c62bbc15029759c992/nike-md3x7.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/591149c62bbc15029759c992/nikecover1.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/591149c62bbc15029759c992/Nike-UnlimitedYou.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/591149c62bbc15029759c992/nike-video-thumb.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 34,
+        "share_id": 1152
+    },
+    {
+        "_id": "59114bf82bbc15029759c99c",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Oakley",
+        "description": "Established in 1975 and acquired in 2007, Oakley is one of the leading product design and sport performance brands in the world with products that world-class athletes depend on to compete at the highest level possible. \n\nThe holder of more than 800 patents, Oakley is also known for its lens technologies, including High Definition Optics®. Oakley extended its position as a sports eyewear brand into apparel and accessories, offering men’s and women’s product lines that appeal to sports performance, active and lifestyle consumers. The brand’s global distribution includes Oakley “O” Stores and outlet Oakley Vault Stores.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114bf82bbc15029759c99c/OAKLEY.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114bf82bbc15029759c99c/oakleycover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114bf82bbc15029759c99c/SeanPettit-OneObsession.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114bf82bbc15029759c99c/oakleyvideothumb.jpg"
+            }
+        },
+        "offers": 2,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 39,
+        "share_id": 1157
+    },
+    {
+        "_id": "59114a712bbc15029759c994",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Pandora",
+        "description": "Pandora is the world’s most powerful music discovery platform – a place where artists find their fans and listeners find music they love. \n\nWe are driven by a single purpose: unleashing the infinite power of music by connecting artists and fans, whether through earbuds, car speakers, live on stage or anywhere fans want to experience it.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114a712bbc15029759c994/pandora-music-logo.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114a712bbc15029759c994/pandoracover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114a712bbc15029759c994/ComingSoon-PandoraPremium.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114a712bbc15029759c994/pandorapremium.jpg"
+            }
+        },
+        "offers": 1,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 35,
+        "share_id": 1153
+    },
+    {
+        "_id": "591146fd2bbc15029759c98f",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Party Rock Clothing",
+        "description": "We are the official Party Rock ClixTV headquarters, and we work to deliver you the brighter side of life in the form of high-quality, domestically-produced, post-modern fashion. \n\nFollow this page to stay in tune with special offers, new releases, and the rapid evolution of the colorful culture that is, Party Rock. \n\nWe're thrilled to have you here, and we invite you to explore our eclectic inventory as we focus on introducing brand new clothing pieces at an affordable price that leaves change for the rest of your night out.\nWelcome to Party Rock.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/party-rock-logo.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/partyrockcover.jpg"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/partyrockvideothumb2.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/PartyRockPromo.mp4"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 33,
+        "share_id": 1151
+    },
+    {
+        "_id": "59114d722bbc15029759c99e",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Purina",
+        "description": "For over 80 years, we've been guided by the belief that pets and people are better together.\n\nThe reason we're so invested in the quality of our food is because we love pets as much as you do. You’ll find pets in our homes, and even sitting by our feet as we work in our offices.\n\nOur passion for pets goes beyond pushing pet nutrition forward, and into forging partnerships in the pet welfare world and raising awareness of what pets truly need. After all, we've seen firsthand how powerful the bond with a pet can be, and the many unique ways that pets can strengthen our families and bring our communities closer.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d722bbc15029759c99e/Purina.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d722bbc15029759c99e/purinacover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d722bbc15029759c99e/Purina-LiveBig.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114d722bbc15029759c99e/purinavideothumb.jpg"
+            }
+        },
+        "offers": 2,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 40,
+        "share_id": 1158
+    },
+    {
+        "_id": "59114dc22bbc15029759c9a1",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Target",
+        "description": "Since our department-store roots evolved into discount-store savvy, we’ve watched our innovations lead to retail revolutions, and our team, guests and partners build better communities where we live and work.\n\nYou’re our guest when you shop with us, so we design every Target shopping experience to be the best you’ll ever have. From CityTarget stores that are right-sized and stocked for urban dwellers to an award-winning iPhone app that lets you shop on the go, your Target shopping experience will be unique and memorable.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114dc22bbc15029759c9a1/targetr1.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114dc22bbc15029759c9a1/targetcover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114dc22bbc15029759c9a1/ThisJustIn-SummerApparelToysforKids.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114dc22bbc15029759c9a1/targetvideothumb1.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 42,
+        "share_id": 1160
+    },
+    {
+        "_id": "59114adc2bbc15029759c998",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Vans",
+        "description": "The Vans® brand has been connecting with youth culture to promote creative self-expression, authenticity and progression for nearly 50 years, while linking the brand’s deep roots in action sports with art, music and street culture.\n\nToday, the Vans® brand evolution continues. From its foundation as an original skateboarding company, to its emergence as a leading action sports brand, to its rise to become the world’s largest youth culture brand — the Vans® brand has taken on a power that matches its business performance.",
+        "keywords": null,
+        "agency": "",
+        "flite_start_time": null,
+        "flite_end_time": null,
+        "points_per_click": null,
+        "points_per_ad_view": 100,
+        "points_per_episode_view": null,
+        "point_reward_status": null,
+        "video_ad": null,
+        "content": {
+            "BrandTransparentLogo": {
+                "assetTypes": [
+                    "Brand Transparent Logo"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/vans-logo1.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/vanscover.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/TheStoryofVans.mp4"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/vansvideothumb1.jpg"
+            }
+        },
+        "offers": 3,
+        "series": null,
+        "brand": null,
+        "sub_campaigns": null,
+        "knetikId": 37,
+        "share_id": 1155
+    }
+]

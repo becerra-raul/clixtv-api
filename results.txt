@@ -1,0 +1,41 @@
+<testsuite name="Mocha Tests" tests="39" failures="0" errors="0" skipped="0" timestamp="Mon, 10 Jul 2017 23:13:19 GMT" time="1.009">
+<testcase classname="Brand Service Test #getBrands(...)" name="should return all brands" time="0.007"/>
+<testcase classname="Brand Service Test #getBrands(...)" name="should return paginated brands" time="0.002"/>
+<testcase classname="Brand Service Test #getBrandBySlug(...)" name="should return the full brand" time="0.033"/>
+<testcase classname="Brand Service Test #getBrandBySlug(...)" name="should return the limited brand if fields are provided" time="0.027"/>
+<testcase classname="Brand Service Test #getStarsByBrandSlug(...)" name="should return the stars for the brand" time="0.024"/>
+<testcase classname="Brand Service Test #getStarsByBrandSlug(...)" name="should return the stars for the brand with paginated episodes" time="0.041"/>
+<testcase classname="Brand Service Test #getOffersByBrandSlug(...)" name="should return the offers for the brand" time="0.038"/>
+<testcase classname="Brand Service Test #getOffersByBrandSlug(...)" name="should return the paginated offers for the brand" time="0.019"/>
+<testcase classname="Brand Service Test #getEpisodesByBrandSlug(...)" name="should return the episodes for the brand" time="0.013"/>
+<testcase classname="Brand Service Test #getEpisodesByBrandSlug(...)" name="should return the paginated episodes for the brand" time="0.015"/>
+<testcase classname="Brand Service Test #getStarByBrandSlug(...)" name="should return the star for the brand" time="0.013"/>
+<testcase classname="Brand Service Test #getStarByBrandSlug(...)" name="should return the star for the brand with paginated episodes" time="0.016"/>
+<testcase classname="Category Service Test #getCategories(...)" name="should return all categories" time="0.022"/>
+<testcase classname="Category Service Test #getCategories(...)" name="should return paginated categories" time="0.018"/>
+<testcase classname="Category Service Test #getCategoryBySlug(...)" name="should return the full category" time="0.011"/>
+<testcase classname="Category Service Test #getCategoryBySlug(...)" name="should return the category with paginated episodes" time="0.005"/>
+<testcase classname="Charity Service Test #getCharities(...)" name="should return all charities" time="0.002"/>
+<testcase classname="Charity Service Test #getCharities(...)" name="should return paginated brands" time="0.001"/>
+<testcase classname="Charity Service Test #getCharities(...)" name="should return sorted charities" time="0.002"/>
+<testcase classname="Charity Service Test #getCharityBySlug(...)" name="should return the full charity" time="0.01"/>
+<testcase classname="Charity Service Test #getCharityBySlug(...)" name="should return the limited charity if fields are provided" time="0.01"/>
+<testcase classname="Charity Service Test #getStarsByCharitySlug(...)" name="should return the stars for the charity" time="0.012"/>
+<testcase classname="Charity Service Test #getStarsByCharitySlug(...)" name="should return the stars for the charity with paginated episodes" time="0.013"/>
+<testcase classname="Charity Service Test #getEpisodesByCharitySlug(...)" name="should return the episodes for the charity" time="0.01"/>
+<testcase classname="Charity Service Test #getEpisodesByCharitySlug(...)" name="should return the paginated episodes for the charity" time="0.01"/>
+<testcase classname="Charity Service Test #getStarByCharitySlug(...)" name="should return the star for the charity" time="0.012"/>
+<testcase classname="Charity Service Test #getStarByCharitySlug(...)" name="should return the star for the brand with paginated episodes" time="0.013"/>
+<testcase classname="Episode Service Test #getEpisodeBySlug(...)" name="should return the full episode" time="0.002"/>
+<testcase classname="Episode Service Test #getRelatedEpisodesByEpisodeSlug(...)" name="should return the related episodes" time="0.01"/>
+<testcase classname="Episode Service Test #getRelatedEpisodesByEpisodeSlug(...)" name="should return paginated related episodes" time="0.008"/>
+<testcase classname="SendGrid Service Test #addUser(...)" name="should return a successful response" time="0.002"/>
+<testcase classname="SendGrid Service Test #addUser(...)" name="should throw an error if the email is not provided" time="0.001"/>
+<testcase classname="Star Service Test #getStars(...)" name="should return all stars" time="0.001"/>
+<testcase classname="Star Service Test #getStars(...)" name="should return paginated stars" time="0"/>
+<testcase classname="Star Service Test #getStars(...)" name="should return sorted stars" time="0.001"/>
+<testcase classname="Star Service Test #getStarBySlug(...)" name="should return the full star" time="0.019"/>
+<testcase classname="Star Service Test #getEpisodesByStarSlug(...)" name="should return the episodes for the star" time="0.018"/>
+<testcase classname="Star Service Test #getEpisodesByStarSlug(...)" name="should return the paginated episodes for the star" time="0.024"/>
+<testcase classname="Star Service Test #getSeriesByStarSlug(...)" name="should return the series list for the star" time="0.016"/>
+</testsuite>
