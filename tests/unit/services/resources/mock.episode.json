@@ -1,0 +1,414 @@
+{
+    "_id": "5931d885f26c170db5f26f91",
+    "content": {
+        "MezzanineVideo": {
+            "assetTypes": [
+                "Mezzanine Video"
+            ],
+            "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/5931d885f26c170db5f26f91/ClixTV_Sock_It_-_103.mp4"
+        },
+        "PosterH": {
+            "assetTypes": [
+                "Poster H"
+            ],
+            "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/5931d885f26c170db5f26f91/Redfoo-S01E03-Thumbnail.jpg"
+        },
+        "EndPoster": {
+            "assetTypes": [
+                "End Poster"
+            ],
+            "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/5931d885f26c170db5f26f91/S01E03.png"
+        },
+        "HLSStream": {
+            "assetTypes": [
+                "HLS Stream"
+            ],
+            "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/delivery/589772_74074ae9c6111197e2b561472ec37ae5/589772.m3u8"
+        }
+    },
+    "description": "With the party socks, you can do anything? jump super high, make gains at the gym, and look like an incredibly cool dude overall.",
+    "fb_id": "232088907286065",
+    "keywords": null,
+    "knetikId": null,
+    "series_id": "591112102bbc15029759c975",
+    "title": "Super Socks",
+    "publish_date": 1496440620000,
+    "unpublish_date": null,
+    "runtime": "0:41",
+    "aired_date": null,
+    "season_id": "5911121e2bbc15029759c976",
+    "episode_number": 3,
+    "views": "430701",
+    "likes": "2930",
+    "publish_status": "processed",
+    "share_id": null,
+    "view_id": null,
+    "serie": {
+        "_id": "591112102bbc15029759c975",
+        "campaigns": [
+            "591146fd2bbc15029759c98f",
+            "59114ab02bbc15029759c996",
+            "59114adc2bbc15029759c998"
+        ],
+        "categories": [
+            "57d1a8fd60130003003b727b",
+            "57f7e058bdbffb0003f24944",
+            "57fd3884dfbef1000330d0ab",
+            "57fe4410e9ef47000313e463"
+        ],
+        "celebrities": [
+            "590ac858fbb3d633b64e3607"
+        ],
+        "charity": "5911e4f332399a7577df3482",
+        "description": "",
+        "keywords": null,
+        "title": "Sock it to Ya",
+        "points_per_episode_view": null,
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "year": null
+    },
+    "charity": {
+        "_id": "5911e4f332399a7577df3482",
+        "publish_date": null,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Special Olympics",
+        "description": "Through the power of sports, people with intellectual disabilities discover new strengths and abilities, skills and success. Our athletes find joy, confidence and fulfillment -- on the playing field and in life. They also inspire people in their communities and elsewhere to open their hearts to a wider world of human talents and potential. Here's a slideshow showing the full spectrum of our activities.  ",
+        "keywords": null,
+        "content": {
+            "ProfilePicture": {
+                "assetTypes": [
+                    "Profile Picture"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5911e4f332399a7577df3482/special-olympics-logo.svg"
+            },
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5911e4f332399a7577df3482/specialolympicscover.jpg"
+            },
+            "PosterH": {
+                "assetTypes": [
+                    "Poster H"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/5911e4f332399a7577df3482/special-olympics-videothumb.jpg"
+            },
+            "Video": {
+                "assetTypes": [
+                    "Video"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/5911e4f332399a7577df3482/2017SpecialOlympicsWorldWinterGamespromovideo.mp4"
+            }
+        }
+    },
+    "celebrity": {
+        "_id": "590ac858fbb3d633b64e3607",
+        "publish_date": 1497247200000,
+        "unpublish_date": null,
+        "publish_status": null,
+        "title": "Redfoo",
+        "description": "",
+        "categories": [],
+        "keywords": null,
+        "charities": [
+            "5911e4f332399a7577df3482"
+        ],
+        "content": {
+            "BackgroundImage": {
+                "assetTypes": [
+                    "Background Image"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/590ac858fbb3d633b64e3607/redfoocover1.jpg"
+            },
+            "ProfilePicture": {
+                "assetTypes": [
+                    "Profile Picture"
+                ],
+                "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/590ac858fbb3d633b64e3607/redfoothumbnail1.jpg"
+            }
+        }
+    },
+    "campaigns": [
+        {
+            "_id": "591146fd2bbc15029759c98f",
+            "publish_date": null,
+            "unpublish_date": null,
+            "publish_status": null,
+            "title": "Party Rock Clothing",
+            "description": "We are the official Party Rock ClixTV headquarters, and we work to deliver you the brighter side of life in the form of high-quality, domestically-produced, post-modern fashion. \n\nFollow this page to stay in tune with special offers, new releases, and the rapid evolution of the colorful culture that is, Party Rock. \n\nWe're thrilled to have you here, and we invite you to explore our eclectic inventory as we focus on introducing brand new clothing pieces at an affordable price that leaves change for the rest of your night out.\nWelcome to Party Rock.",
+            "keywords": null,
+            "agency": "",
+            "flite_start_time": null,
+            "flite_end_time": null,
+            "points_per_click": null,
+            "points_per_ad_view": 100,
+            "points_per_episode_view": null,
+            "point_reward_status": null,
+            "video_ad": null,
+            "content": {
+                "BrandTransparentLogo": {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/party-rock-logo.svg"
+                },
+                "BackgroundImage": {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/partyrockcover.jpg"
+                },
+                "PosterH": {
+                    "assetTypes": [
+                        "Poster H"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/partyrockvideothumb2.jpg"
+                },
+                "Video": {
+                    "assetTypes": [
+                        "Video"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/591146fd2bbc15029759c98f/PartyRockPromo.mp4"
+                }
+            },
+            "offers": [
+                "59123400024a284f7b6f65d5",
+                "592651eda8874f17959adfa1",
+                "59265205a8874f17959adfa2"
+            ],
+            "series": null,
+            "brand": null,
+            "sub_campaigns": null,
+            "knetikId": 33,
+            "share_id": 1151
+        },
+        {
+            "_id": "59114ab02bbc15029759c996",
+            "publish_date": null,
+            "unpublish_date": null,
+            "publish_status": null,
+            "title": "DiGiorno",
+            "description": "Launched nationally in 1995, DiGiorno revolutionized the category with pizza created from the knowledge that the freshest taste, comes baked from the freshest place -- your own oven. Rise to the Occasion and join us on YouTube to see what we're cooking up next. Make to subscribe, comment, like, share, but most importantly, dig in!\n\nIt's Not Delivery. It's DIGIORNO.®",
+            "keywords": null,
+            "agency": "",
+            "flite_start_time": null,
+            "flite_end_time": null,
+            "points_per_click": null,
+            "points_per_ad_view": 100,
+            "points_per_episode_view": null,
+            "point_reward_status": null,
+            "video_ad": null,
+            "content": {
+                "BrandTransparentLogo": {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/digiorno-logo.svg"
+                },
+                "Video": {
+                    "assetTypes": [
+                        "Video"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/DiGiornoPizzaAnthem.mp4"
+                },
+                "BackgroundImage": {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/digiornocover.digiornocover"
+                },
+                "PosterH": {
+                    "assetTypes": [
+                        "Poster H"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114ab02bbc15029759c996/digiorno-video-thumb1.jpg"
+                }
+            },
+            "offers": [
+                "59263766a8874f17959adf81",
+                "59263909a8874f17959adf87",
+                "59263cf3a8874f17959adf8f"
+            ],
+            "series": null,
+            "brand": null,
+            "sub_campaigns": null,
+            "knetikId": 36,
+            "share_id": 1154
+        },
+        {
+            "_id": "59114adc2bbc15029759c998",
+            "publish_date": null,
+            "unpublish_date": null,
+            "publish_status": null,
+            "title": "Vans",
+            "description": "The Vans® brand has been connecting with youth culture to promote creative self-expression, authenticity and progression for nearly 50 years, while linking the brand’s deep roots in action sports with art, music and street culture.\n\nToday, the Vans® brand evolution continues. From its foundation as an original skateboarding company, to its emergence as a leading action sports brand, to its rise to become the world’s largest youth culture brand — the Vans® brand has taken on a power that matches its business performance.",
+            "keywords": null,
+            "agency": "",
+            "flite_start_time": null,
+            "flite_end_time": null,
+            "points_per_click": null,
+            "points_per_ad_view": 100,
+            "points_per_episode_view": null,
+            "point_reward_status": null,
+            "video_ad": null,
+            "content": {
+                "BrandTransparentLogo": {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/vans-logo1.svg"
+                },
+                "BackgroundImage": {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/vanscover.jpg"
+                },
+                "Video": {
+                    "assetTypes": [
+                        "Video"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/TheStoryofVans.mp4"
+                },
+                "PosterH": {
+                    "assetTypes": [
+                        "Poster H"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/59114adc2bbc15029759c998/vansvideothumb1.jpg"
+                }
+            },
+            "offers": [
+                "5928867d0535e068e7ac0f87",
+                "592889500535e068e7ac0f8f",
+                "59288a210535e068e7ac0f95"
+            ],
+            "series": null,
+            "brand": null,
+            "sub_campaigns": null,
+            "knetikId": 37,
+            "share_id": 1155
+        }
+    ],
+    "categories": [
+        {
+            "_id": "57d1a8fd60130003003b727b",
+            "content": [
+                {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5804d1e7a7889d000337f0e2/Nike-Logo-PNG21.png"
+                },
+                {
+                    "assetTypes": [
+                        "Profile Picture"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57d1a8fd60130003003b727b/trendingthumb.jpg"
+                },
+                {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57d1a8fd60130003003b727b/trending-now-cat-head.jpg"
+                }
+            ],
+            "description": "",
+            "order": 1,
+            "title": "Trending Now"
+        },
+        {
+            "_id": "57f7e058bdbffb0003f24944",
+            "content": [
+                {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5804d1e7a7889d000337f0e2/Nike-Logo-PNG21.png"
+                },
+                {
+                    "assetTypes": [
+                        "Profile Picture"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57f7e058bdbffb0003f24944/recentlyaddedthumb1.jpg"
+                },
+                {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57f7e058bdbffb0003f24944/recently-added-cat-head.jpg"
+                }
+            ],
+            "description": "",
+            "order": 2,
+            "title": "Recently Added"
+        },
+        {
+            "_id": "57fd3884dfbef1000330d0ab",
+            "content": [
+                {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5804d1e7a7889d000337f0e2/Nike-Logo-PNG21.png"
+                },
+                {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57fd3884dfbef1000330d0ab/funnycover.jpg"
+                },
+                {
+                    "assetTypes": [
+                        "Profile Picture"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57fd3884dfbef1000330d0ab/funnythumb2.jpg"
+                }
+            ],
+            "description": "",
+            "order": 4,
+            "title": "Funny"
+        },
+        {
+            "_id": "57fe4410e9ef47000313e463",
+            "content": [
+                {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5804d1e7a7889d000337f0e2/nike_header.png"
+                },
+                {
+                    "assetTypes": [
+                        "Brand Transparent Logo"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/5804d1e7a7889d000337f0e2/Nike-Logo-PNG21.png"
+                },
+                {
+                    "assetTypes": [
+                        "Profile Picture"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_storage/storage/57cdc2665aad0b6fcf67bb3d/57fe4410e9ef47000313e463/Pets.png"
+                },
+                {
+                    "assetTypes": [
+                        "Profile Picture"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57fe4410e9ef47000313e463/petsthumb.jpg"
+                },
+                {
+                    "assetTypes": [
+                        "Background Image"
+                    ],
+                    "downloadUrl": "https://advncedcdn.vo.llnwd.net/clixtv_prod_storage/storage/57cdc2665aad0b6fcf67bb3d/57fe4410e9ef47000313e463/petscover3.jpg"
+                }
+            ],
+            "description": "",
+            "order": 8,
+            "title": "Pets"
+        }
+    ],
+    "brands": []
+}

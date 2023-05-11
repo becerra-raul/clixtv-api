@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="robots" content="noindex, nofollow" />
+    <script type="text/javascript">
+        function getQueryStringValue(key) {
+            return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+        }
+    </script>
+    {{#if_eq inboundAffiliate "LINKSHARE"}}
+        <script type="text/javascript">
+            (function (url) {
+                if(!window.DataLayer){
+                    window.DataLayer = {};
+                }
+                if(!DataLayer.events){
+                    DataLayer.events = {};
+                }
+                DataLayer.events.SPIVersion = DataLayer.events.SPIVersion || "3.4";
+                DataLayer.events.SiteSection = "1";
+
+                var loc, ct = document.createElement("script");
+                ct.type = "text/javascript";
+                ct.async = true; ct.src = url; loc = document.getElementsByTagName('script')[0];
+                loc.parentNode.insertBefore(ct, loc);
+            }(document.location.protocol + "//tag.rmp.rakuten.com/120317.ct.js"));
+        </script>
+    {{/if_eq}}
+
+    <style type="text/css">
+        .container {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%;
+        }
+        .video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .end-image {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100%;
+        }
+        .end-image-container {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body style="margin:0px;padding:0px;overflow:hidden;">
+
+<div class="container">
+    <div id="video-container">
+        <div id="zype_{{videoId}}"></div><script src="https://player.zype.com/embed/{{videoId}}.js?api_key=ztdKXlvaBV9nkwhspiIp8TZvD2I0xqna84LPi2O_e3r8Wi7kJs7qxR8wz0XugXLP&autoplay={{autoplay}}&controls=true" type="text/javascript"></script>
+    </div>
+    <a href="{{link}}" id="end-image" class="end-image-container" target="new" style="display: none;">
+        <img src="{{endPhoto}}" class="end-image" />
+        <img border=0 width=1 height=1 src="{{trackingPixel}}" />
+    </a>
+</div>
+
+{{#if_eq inboundAffiliate "AWIN"}}
+    <script type="text/javascript">
+        var minWatchedEventFired = false;
+        var fireMinWatchedEvent = function() {
+            if (minWatchedEventFired) {
+                return;
+            }
+            minWatchedEventFired = true;
+
+            var awinRef = new Date().getTime();
+
+            //<![CDATA[ /*** Do not change ***/
+            window.AWIN = {};
+            window.AWIN.Tracking = {};
+            window.AWIN.Tracking.Sale = {};
+            /*** Set your transaction parameters ***/
+            window.AWIN.Tracking.Sale.amount = "0";
+            window.AWIN.Tracking.Sale.orderRef = awinRef.toString();
+            window.AWIN.Tracking.Sale.parts = "DEFAULT:0";
+            window.AWIN.Tracking.Sale.voucher = "0";
+            window.AWIN.Tracking.Sale.currency = "USD";
+            window.AWIN.Tracking.Sale.test = "0";
+            window.AWIN.Tracking.Sale.channel = "aw";
+            window.AWIN.Tracking.Sale.custom = ["{{userIdCookie}}"];
+            window.AWIN.Tracking.Sale.click = getQueryStringValue('awc');
+
+            var pixel = document.createElement('img');
+            pixel.setAttribute('src', 'https://www.awin1.com/sread.img?tt=ns&tv=2&merchant=20434&amount=0&cr=USD&ref=' + awinRef + '&parts=DEFAULT:0&vc=0&ch=aw&testmode=0&p1={{userIdCookie}}');
+            pixel.setAttribute('border', '0');
+            pixel.setAttribute('width', '0');
+            pixel.setAttribute('height', '0');
+            document.body.appendChild(pixel);
+
+            var script = document.createElement('script');
+            script.setAttribute('src', 'https://www.dwin1.com/20434.js');
+            script.setAttribute('type', 'text/javascript');
+            script.setAttribute('defer', 'defer');
+            document.body.appendChild(script);
+        };
+    </script>
+{{/if_eq}}
+{{#if_eq inboundAffiliate "LINKSHARE"}}
+    <script type="text/javascript">
+        var minWatchedEventFired = false;
+        var rm_trans = {
+            affiliateConfig: {ranMID: "44760", discountType: "item", includeStatus: "false"},
+            orderid : "{{orderId}}",
+            currency: "USD",
+            customerStatus: "New",
+            conversionType: "Sale",
+            customerID: "{{userIdCookie}}",
+            discountCode: "",
+            discountAmount: 0,
+            taxAmount: 0,
+            optionalData: {},
+            lineitems : [{
+                quantity : 1,
+                unitPrice : 0,
+                unitPriceLessTax: 0,
+                SKU: "{{slug}}",
+                productName: "{{productName}}"
+            }]
+        };
+
+        var fireMinWatchedEvent = function() {
+            if (minWatchedEventFired) {
+                return;
+            }
+            minWatchedEventFired = true;
+            !function(a,b,c){
+                var d=a.rakutenDataLayerName||"DataLayer";a[d]=a[d]||{},a[d].events=a[d].events||{},a[d].events.SPIVersion="3.4",a[d].Sale=a[d].Sale||{},a[d].Sale.Basket=a[d].Sale.Basket||{},c.Ready=a[d].Sale.Basket.Ready&&a[d].Sale.Basket.Ready+1||1,a[d].Sale.Basket=c;
+                var e=function(a){for(var c,d=a+"=",e=b.cookie.split(";"),f=0;f<e.length;f++){for(c=e[f];" "==c.charAt(0);)c=c.substring(1,c.length);if(0==c.indexOf(d))return c.substring(d.length,c.length)}return""},f=function(a){var b=a||"",c={};if(a||(b=e("rmStore")),b){for(;b!==decodeURIComponent(b);)b=decodeURIComponent(b);for(var d=b.split("|"),f=0;f<d.length;f++)c[d[f].split(":")[0]]=d[f].split(":")[1]}return c},g={};g=f();var h=function(a,b,c,d){c=c||"",d=d||{};var e=g[a||""],f=d[b||""],h=d.ignoreCookie||!1;e=h?0:e;var i=e||f||c;return i=("string"!=typeof i||"false"!==i.toLowerCase())&&i,i},k=function(a,c,d,e,f){var g=b.createElement(a),h=-1<b.location.protocol.indexOf("s")?"https:":"http:";for(var i in c=c.replace("https:",h),g.src=c,e=e||{},"script"==a?e.type=e.type||"text/javascript":(e.style="display:none;","img"==a&&(e.alt="",e.height="1",e.width="1")),e)e.hasOwnProperty(i)&&g.setAttribute(i,e[i]);var j=b.getElementsByTagName(d);j=j.length?j[0]:b.getElementsByTagName("script")[0].parentElement,f&&(g.onload=f,g.onreadystatechange=function(){("complete"==this.readyState||"loaded"==this.readyState)&&f()}),j.appendChild(g)},l=function(){var b=a[d]&&a[d].Sale&&a[d].Sale.Basket?a[d].Sale.Basket:{},c=c||b.affiliateConfig||{},f=h("amid","ranMID","",c)||b.ranMID;if(!f)return!1;var g="undefined"==typeof c.allowCommission||"false"!==c.allowCommission;if(!g)return!1;var l=h("adn","domain","track.linksynergy.com",c),m=h("atm","tagType","pixel",c),o=h("adr","discountType","order",c),p=h("acs","includeStatus","false",c),q=h("arto","removeOrderTax","false",c),r=h("artp","removeTaxFromProducts","false",c),s=h("artd","removeTaxFromDiscount","false",c),t=h("atr","taxRate",b.taxRate||0,c),u=h("acv","centValues","true",c),v=h("ald","land",!1,{})||(c.land&&!0===c.land?e("ranLandDateTime"):c.land)||!1,w=h("atrv","tr",!1,{})||(c.tr&&!0===c.tr?e("ranSiteID"):c.tr)||!1;t=Math.abs(+t);var x=(100+t)/100,y=encodeURIComponent(b.orderid||"OrderNumberNotAvailable"),z="",A="",B="",C="",D=b.currency||"";D=encodeURIComponent(D.toUpperCase());var F=u&&"false"!==u?100:1,G=b.taxAmount?Math.abs(F*+b.taxAmount):0,H=b.discountAmount?Math.abs(F*+b.discountAmount):0,I=b.discountAmountLessTax?Math.abs(F*+b.discountAmountLessTax):0;!I&&H&&s&&t&&(I=H/x),I=I||H;var J="ep";"mop"===m&&(J="eventnvppixel");var K=(b.customerStatus||"")+"",L="";K&&(p&&"EXISTING"==K.toUpperCase()||p&&"RETURNING"==K.toUpperCase())&&(L="R_");for(var M=[],N=0,O=0;O<(b.lineitems?b.lineitems.length:0);O++)if(b.lineitems[O]){var P=!1,Q=a.JSON?JSON.parse(JSON.stringify(b.lineitems[O])):b.lineitems[O],R=+Q.quantity||0,S=+Q.unitPrice||0,T=+Q.unitPriceLessTax,U=T||S||0;r&&t&&!T&&(U/=x);for(var V,W=R*U,X=0;X<M.length;X++)V=M[X],V.SKU===Q.SKU&&(P=!0,V.quantity+=R,V.totalValue+=W);P||(Q.quantity=R,Q.totalValue=W,M.push(Q)),N+=W*F}for(var Y={},O=0;O<M.length;O++){var Q=M[O],Z=encodeURIComponent(Q.SKU),$=Q.totalValue||Q.totalValue,R=Q.quantity,_=encodeURIComponent(Q.productName)||"",aa=$*F;"item"===o.toLowerCase()&&I&&(aa-=I*aa/N);var ba=Q.optionalData;for(var ca in ba)ba.hasOwnProperty(ca)&&(Y[ca]=Y[ca]||"",Y[ca]+=encodeURIComponent(ba[ca])+"|");z+=L+Z+"|",A+=R+"|",B+=Math.round(aa)+"|",C+=L+_+"|"}z=z.slice(0,-1),A=A.slice(0,-1),B=B.slice(0,-1),C=C.slice(0,-1),I&&(I=Math.round(I)),G&&(G=Math.round(G)),I&&"order"===o.toLowerCase()&&(z+="|"+L+"DISCOUNT",C+="|"+L+"DISCOUNT",A+="|0",B+="|-"+I),q&&G&&(z+="|"+L+"ORDERTAX",A+="|0",B+="|-"+G,C+="|"+L+"ORDERTAX");var da="https://"+l+"/"+J+"?mid="+f;da+="&ord="+y,da+="&skulist="+z,da+="&qlist="+A,da+="&amtlist="+B,da+="&cur="+D,da+="&img=1",da+="&spi="+a[d].events.SPIVersion,da+=v?"&land="+v:"",da+=w?"&tr="+w:"",I&&"item"===o.toLowerCase()&&(da+="&discount="+I);var ba=b.optionalData||{};for(var ca in b.discountCode&&(ba.coupon=b.discountCode),b.customerStatus&&(ba.custstatus=b.customerStatus),b.customerID&&(ba.custid=b.customerID),I&&(ba.disamt=I),ba)ba.hasOwnProperty(ca)&&(da+="&"+encodeURIComponent(ca)+"="+encodeURIComponent(ba[ca]));for(var ca in Y)Y.hasOwnProperty(ca)&&(da+="&"+encodeURIComponent(ca)+"list="+Y[ca].slice(0,-1),I&&"order"===o.toLowerCase()&&(da+="|"),G&&q&&(da+="|"));if(da+="&namelist="+C,"&"===da[da.length-1]&&(da=da.slice(0,-1)),2037<da.length){for(var ea=2037;0<ea;)if("&"==da.charAt(ea)){da=da.slice(0,ea);break}else ea--;da+="&trunc=true"}k("img",da,"body")},m=function(){var b=a[d]&&a[d].Sale&&a[d].Sale.Basket?a[d].Sale.Basket:{},c=c||b.displayConfig||{};if(b.orderid&&b.conversionType){var e=h("dmid","rdMID","",c);if(!e)return!1;var f=h("dtm","tagType","js",c),g=h("ddn","domain","tags.rd.linksynergy.com",c),j=h("dis","includeStatus","false",c),l=h("dcomm","allowCommission","notset",c),m=h("duup","useUnitPrice","false",c),n=h("drtp","removeTaxFromProducts","false",c),o=h("drtd","removeTaxFromDiscount","false",c),p=h("dtr","taxRate",b.taxRate||0,c),q="";"true"===l||!0===l||"1"===l||1===l?q="1":("false"===l||!1===l||"0"===l||0===l)&&(q="0"),f="js"===f||"if"===f||"img"===f?f:"js";var r="script";"if"===f?r="iframe":"img"===f&&(r="img"),("true"===m||!0===m||"1"===m||1===m)&&(m=!0);var s=(b.customerStatus||"")+"",t="";s&&j&&("EXISTING"==s.toUpperCase()||"RETURNING"==s.toUpperCase())&&(t="R_");var u=encodeURIComponent(t+b.orderid),v=encodeURIComponent(b.currency||""),w=0,x="";p=Math.abs(+p);var y=(100+p)/100,z=b.discountAmount?Math.abs(+b.discountAmount):0,A=b.discountAmountLessTax?Math.abs(+b.discountAmountLessTax):0;!A&&z&&o&&p&&(A=z/y),A=A||z,A=isNaN(A)?0:A;for(var B=0;B<(b.lineitems?b.lineitems.length:0);B++)if(b.lineitems[B]){var C=+b.lineitems[B].quantity,D=+b.lineitems[B].unitPriceLessTax*C;(!D||m)&&(n&&p?D=+b.lineitems[B].unitPrice/y*C:D=+b.lineitems[B].unitPrice*C),D=isNaN(D)?0:D,w+=D,x+=encodeURIComponent(b.lineitems[B].SKU)+","}w=Math.round(100*(w-A))/100,x=x.slice(0,-1);var E="https://"+g+"/"+f+"/"+e;E+="/?pt="+"conv",E+="&orderNumber="+u,E+="&spi="+a[d].events.SPIVersion,w&&(E+="&price="+w),v&&(E+="&cur="+v),q&&(E+="&tvalid="+q),x&&(E+="&prodID="+x),k(r,E,"body")}},n=function(){var b=a[d]&&a[d].Sale&&a[d].Sale.Basket?a[d].Sale.Basket:{},c=b.searchConfig||{},e=1024,f=encodeURIComponent("...TRUNCATED"),g=h("smid","rsMID","",c);if(!g)return!1;var j=h("said","accountID","113",c),l=h("sclid","clickID","",c),m=encodeURIComponent(h("sct","conversionType",b.conversionType&&"sale"!==(b.conversionType+"").toLowerCase()?b.conversionType:"conv",c));k("script","https://services.xg4ken.com/js/kenshoo.js?cid="+g,"body",null,function(){var a={};if(a.conversionType=m,a.revenue=0,a.currency=encodeURIComponent(b.currency||"USD"),a.orderId=encodeURIComponent(b.orderid||""),a.promoCode=encodeURIComponent(b.discountCode||""),l&&(a.ken_gclid=encodeURIComponent(l)),a.discountAmount=+(b.discountAmount||0),a.discountAmount=isNaN(a.discountAmount)?0:Math.abs(a.discountAmount),a.customerStatus=encodeURIComponent(b.customerStatus||""),a.productIDList="",a.productNameList="",b.lineitems&&b.lineitems.length){for(var c=0;c<b.lineitems.length;c++)b.lineitems[c]&&(a.revenue+=+(b.lineitems[c].unitPrice||0)*+b.lineitems[c].quantity,a.productIDList+=(b.lineitems[c].SKU||"NA")+",",a.productNameList+=(b.lineitems[c].productName||"NA")+",");a.revenue=Math.round(100*(a.revenue-a.discountAmount))/100,a.productIDList=encodeURIComponent(a.productIDList.slice(0,-1)),a.productNameList=encodeURIComponent(a.productNameList.slice(0,-1)),a.productIDList.length>e&&(a.productIDList=a.productIDList.substring(0,e-f.length)+f),a.productNameList.length>e&&(a.productNameList=a.productNameList.substring(0,e-f.length)+f)}kenshoo.trackConversion(j,g,a)})};a[d].SPI={readRMCookie:e,processRMStoreCookie:f,readRMStoreValue:h,sRAN:l,sDisplay:m,sSearch:n,addElement:k,rmStore:g},l(),m(),n()
+            }(window,document,rm_trans);
+        };
+    </script>
+{{/if_eq}}
+
+<script type="text/javascript">
+    (function() {
+        window.zypeInitialize = function(zypePlayer) {
+            zypePlayer.addEventListener('timeupdate', function(data) {
+                if (data.currentTime >= {{minPlayTime}}) {
+                    if (window.fireMinWatchedEvent) {
+                        fireMinWatchedEvent();
+                    }
+                    zypePlayer.removeEventListener('timeupdate');
+                }
+            });
+            zypePlayer.addEventListener('ended', function(data) {
+                document.getElementById('video-container').style.display = 'none';
+                document.getElementById('end-image').style.display = 'block';
+            });
+        }
+    }());
+</script>
+</body>
+</html>
